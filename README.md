@@ -24,27 +24,3 @@
 </body>
 
 </html>
-
-html {
-  height: 100%;
-  width: 100%;
-}
-
-body {
-      background-color: #6bb5c7;
-}
-
-.center{
-text-align: center;
-color: white;
-
-}
-
-h1{
-text-align: center;
-color: white;
-}
-
-img {
-      max-width: 100%; /* Ensure image fits within the container */
-}
